@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hexiang708@gmail.com
+	name = Xiang HE
